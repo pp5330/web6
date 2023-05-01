@@ -16,7 +16,7 @@ body{
     margin: 0px;
 }
 #grid{
-   display: grid; grid-template-columns: 150px 2fr;
+   display: grid; grid-template-columns: 150px 1fr;
 }
 
 @media(max-width:800px){
